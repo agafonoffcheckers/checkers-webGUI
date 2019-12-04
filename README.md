@@ -1,9 +1,9 @@
-#Application GUI core functionality
+# Application GUI core functionality
 
 - If you need latest build of application, you should clone `application`
 directory.
 
-##For GUI developers
+## For GUI developers
 
 - Make sure that you work only with `assets` directory.
 
@@ -13,7 +13,7 @@ directory.
 
 - Make your commit messages Informatively.
 
-###Tools:
+### Tools:
 
 - JavaScript(Es6)
 
