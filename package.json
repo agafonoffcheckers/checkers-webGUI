@@ -1,0 +1,31 @@
+{
+  "name": "checkers-webGUI",
+  "version": "1.0.0",
+  "description": "GUI",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "start": "npm run build && npm run open",
+    "open": "concurrently \"http-server -a localhost -p 1234\" \"open http://localhost:1234/build\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agafonoffcheckers/checkers-webGUI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agafonoffcheckers/checkers-webGUI/issues"
+  },
+  "homepage": "https://github.com/agafonoffcheckers/checkers-webGUI#readme",
+  "devDependencies": {
+    "concurrently": "^5.0.0",
+    "http-server": "^0.12.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
