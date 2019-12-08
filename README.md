@@ -7,9 +7,7 @@ directory.
 
 - Make sure that you work only with `assets` directory.
 
-- Use `npm build` command to build application.
-
-- Use `npm start`(automatically builds application) command to run application. 
+- Use `npm run build` command to build application.
 
 - Make your commit messages Informatively.
 
