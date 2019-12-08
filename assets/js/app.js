@@ -3,3 +3,5 @@
 * */
 
 import _ from 'lodash'
+import {APIRequest} from "./apirequest/APIRequest";
+import {Urls} from "./Urls";
