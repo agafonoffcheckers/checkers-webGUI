@@ -1,3 +1,9 @@
+/**
+* @APIRequest class
+* Includes "GET" and "POST" methods
+* TODO - make timeout for requests
+* */
+
 export class APIRequest {
     static async GET(url) {
         let props = {
