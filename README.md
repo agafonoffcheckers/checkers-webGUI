@@ -7,11 +7,11 @@
 
 ### Tools:
 
-- (React)[https://reactjs.org/]
+- [React](https://reactjs.org/)
 
 - TypeScript
 
 - JavaScript(Es6)
 
-- (Webpack)[https://webpack.js.org/]
+- [Webpack](https://webpack.js.org/)
 
